@@ -6,7 +6,7 @@ In this chapter, we'll learn how to create a git repository and keep track of ch
 
 The git client we'll be using to manage our document history is called **GitFiend**. Its icon is a little purple owl. You can open it by clicking the start menu (1), typing 'gitfiend' (2) (note that it's all one word), and selecting the owl icon that comes up (3) :
 
-![image-20230427160606408](assets\git-gui-open.png)
+![image-20230427160606408](assets/git-gui-open.png)
 
 ## Creating a new repository
 
@@ -14,11 +14,11 @@ A repository is a folder within which Git will track file changes.
 
 From the start screen of GitFiend, click `Create` (circled in red):
 
-![image-20230427160824772](assets\git-create-1.png)
+![image-20230427160824772](assets/git-create-1.png)
 
 The next window will ask you to name the repository. First, make sure the repository will be created on your computer's desktop by confirming that the `Location` text ends with `Desktop\`. If it doesn't, click `Browse` and select the desktop folder (1) . Regardless, enter a name for your repository (2) and then click `Create Repo` (3):
 
-![image-20230427160915833](assets\git-create-2.png)
+![image-20230427160915833](assets/git-create-2.png)
 
 This will create a new, empty folder on our desktop that we can put files in just like any regular old folder. GitFiend will now show us the repository "history", which is currently empty:
 
