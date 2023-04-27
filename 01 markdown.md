@@ -1,5 +1,7 @@
 # 1. Markdown
 
+In this chapter, we'll learn how to use a graphical text editor that specializes in Markdown documents.
+
 ## Opening the editor
 
 Although we can write markdown in almost any text editor, today we will be using [Ghostwriter](https://ghostwriter.kde.org/). We choose this editor because it gives us practice seeing Markdown source and rendered output side-by-side, as well as providing us with some useful cheat sheets.
