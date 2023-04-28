@@ -6,7 +6,15 @@ In this chapter, we'll learn how to use a graphical text editor that specializes
 
 Although we can write markdown in almost any text editor, today we will be using [Ghostwriter](https://ghostwriter.kde.org/). We choose this editor because it gives us practice seeing Markdown source and rendered output side-by-side, as well as providing us with some useful cheat sheets.
 
+For the computers in this lab, start by navigating to the folder `C:\BIN\ghostwriter_2.1.6_win64_portable`. You can do this by opening the start menu, typing Run, and hitting enter. At the run prompt, paste the aforementioned file path and click `OK`:
+
 [TODO]
+
+Once there, double click `ghostwriter.exe`, circled here in red:
+
+[TODO]
+
+If you see a screen saying that Windows protected your computer from an untrusted program, ask your workshop administrators for help.
 
 ## Basic editing
 
