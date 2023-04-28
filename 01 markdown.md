@@ -8,11 +8,11 @@ Although we can write markdown in almost any text editor, today we will be using
 
 For the computers in this lab, start by navigating to the folder `C:\BIN\ghostwriter_2.1.6_win64_portable`. You can do this by opening the start menu, typing Run, and hitting enter. At the run prompt, paste the aforementioned file path and click `OK`:
 
-[TODO]
+![run](assets/run.png)
 
 Once there, double click `ghostwriter.exe`, circled here in red:
 
-[TODO]
+![ghostexe](assets/ghostexe.png)
 
 If you see a screen saying that Windows protected your computer from an untrusted program, ask your workshop administrators for help.
 
