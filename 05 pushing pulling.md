@@ -17,7 +17,7 @@ Notice that there are two post-it notes on the left now, `main` and `origin/main
 
 To make the main timeline hosted on GitHub aware of our changes, we need to upload them to GitHub's servers. This is called **pushing** our changes. In GitFiend, we can do this by clicking the button with the "upward arrow" icon in the top right. Sometimes it's labelled 'Publish', sometimes it's labelled 'Push'. The author of this tutorial isn't sure why. Either way, it's circled in red below. Give it a click:
 
-![image-20230427200628902](C:/Users/Naomi Alterman/Desktop/osc-md-git-tutorial/assets/push-button.png)
+![image-20230427200628902](assets/push-button.png)
 
 Once you do, you'll notice the branch post-its on the left change. They are now both aligned with the new commit we made. Your GitHub repo and your local repo are now synced.
 
